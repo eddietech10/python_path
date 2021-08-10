@@ -1,4 +1,4 @@
 *.gif
 *.jpg
 .DS_Store
-venv
+venv/
